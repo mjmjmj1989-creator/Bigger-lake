@@ -1,0 +1,6 @@
+{
+  "name": "TapFlow Taproom Operations",
+  "description": "High-performance taproom inventory and operations dashboard for bar staff and managers with real-time keg tracking, fast spirit pulls, and keg deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
